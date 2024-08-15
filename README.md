@@ -24,8 +24,11 @@ Este projeto é um aplicativo web desenvolvido com **Streamlit** que realiza uma
 3. Execute o aplicativo usando o comando: `streamlit run app.py`
 4. Acesse o aplicativo através do link fornecido no terminal.
 
+## Acessar o Aplicativo Online
+Você pode acessar a versão hospedada do aplicativo web através do seguinte link:
+
+[Link para o Aplicativo no Render](http://34.213.214.55:8501)
+
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias no código ou adicionar novas funcionalidades ao aplicativo. Para contribuir, faça um fork do repositório, crie um branch para sua feature e envie um pull request.
 
-## Licença
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
